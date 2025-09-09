@@ -1,2 +1,1 @@
-Git Practice
-Giới thiệu: Tôi là Nguyễn Hoàng Phúc, MSSV 222786.
+Đây là README từ nhánh main.
